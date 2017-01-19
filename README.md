@@ -26,5 +26,5 @@ mvn clean install spring-boot:run
 The application should start up at: 
 http://localhost:8080
 
-As mentioned in the exam instructions, the only endpoint available will be running at:
+The only endpoint available will be running at:
 http://localhost:8080/api/recent_purchases/:username
